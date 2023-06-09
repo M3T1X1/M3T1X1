@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Kacper.
+- 👋 Hello, I'm Kacper.
 

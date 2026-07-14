@@ -39,6 +39,7 @@ Currently I'm studying Computer Science at University of Rzeszów. Mainly I take
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### AI Tools
 ![Claude](https://img.shields.io/badge/Claude-EDDCCA?style=for-the-badge&logo=anthropic&logoColor=black)
